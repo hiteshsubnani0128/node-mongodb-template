@@ -8,8 +8,8 @@ npm install
 Create a .env file
 
 with
-DB_HOST=<HostName>
-SECRETE=<Some Secrete key>
+DB_HOST= HostName
+SECRETE= Some Secrete key
 
 npm i -g nodemon
 npm start
